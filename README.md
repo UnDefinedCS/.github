@@ -2,13 +2,13 @@
 
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+%3CYour+Name%3E;Welcome+to+the+Show!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hey+there!+👋;Welcome+to+the+Show!+🚀" alt="Typing SVG" />
 </h1>
 
 ---
 
 ### Socials
-<a href="https://github.com/<org-name>">
+<a href="https://github.com/UnDefinedCS">
   <img src="https://img.shields.io/github/followers/UnDefinedCS?label=Followers&style=social" alt="GitHub Followers">
 </a>
 
@@ -16,7 +16,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,py,html,css,linux,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,svelte,html,css,linux,vscode&perline=8" />
 </p>
 
 ---
